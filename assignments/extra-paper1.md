@@ -1,0 +1,19 @@
+# Extra-Paper1
+
+| Metadata | Value |
+|---|---|
+| Canvas status | published |
+| Points | 2.0 |
+| Grading type | points |
+| Submission type | online_upload |
+| Due | 2026-03-07T06:59:59 |
+| Available from | 2026-01-12T07:00:00 |
+
+You are required to read a paper from the list [provided here](../pages/papers.md "Papers") and:
+
+- write a critical essay (at least 1 page long and at most 2 pages long (Times 12, margins 1", 1.5 line spacing maximum))
+- record a 1-minute video with your opinion about the paper
+
+For the essay: summarize the problem, the goal, how the authors show what they are doing, what are the highlights
+
+VERY Important: I want you to write a critique of the paper. Criticize the results and method, and provide an informed explanation showing how things are actually good or how the results could be different or more precise, for example.
