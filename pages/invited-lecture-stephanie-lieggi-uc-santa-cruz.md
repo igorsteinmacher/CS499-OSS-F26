@@ -1,6 +1,5 @@
 # Invited Lecture: Stephanie Lieggi (UC, Santa Cruz)
 
-> Canvas status: **active**
 
 **Title: What are Open Source Program Offices and Why They Matter**
 

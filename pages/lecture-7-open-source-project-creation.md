@@ -1,12 +1,11 @@
 # Lecture 7. Open Source project creation
 
-> Canvas status: **active**
 
 ## **Summary**
 
 In this lecture, we will explore guidelines to creating an Open Source Software project.
 
-![](../assets/template-images/content-divider/content-divider.png)
+---
 
 ## **To Do List**
 

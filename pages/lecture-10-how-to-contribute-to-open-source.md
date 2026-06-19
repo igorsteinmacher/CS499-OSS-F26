@@ -1,8 +1,7 @@
 # Lecture 10. How To Contribute to Open Source
 
-> Canvas status: **active**
 
-## **lightbulb.pngOverview**
+## **Overview**
 
 This is the kickoff of our last module! It will last the rest of your semester (YES, until the end of the course), and it consists of you contributing to an Open Source Software project.
 

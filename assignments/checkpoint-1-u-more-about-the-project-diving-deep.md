@@ -1,12 +1,5 @@
 # Checkpoint 1.U More about the project --> Diving deep
 
-| Metadata | Value |
-|---|---|
-| Canvas status | published |
-| Points | 10.0 |
-| Grading type | points |
-| Submission type | online_upload |
-
 ### How the Project is Structured
 
 The goal here is to push you to understand more about the project you are working on.

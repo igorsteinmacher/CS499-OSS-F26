@@ -1,11 +1,6 @@
 # Final Presentation[G]. Schedule your presentation
 
-| Metadata | Value |
-|---|---|
-| Canvas status | published |
-| Points | 10.0 |
-| Grading type | points |
-| Submission type | online_text_entry |
+
 
 ### Schedule your presentation
 

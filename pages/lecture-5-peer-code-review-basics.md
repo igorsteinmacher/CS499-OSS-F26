@@ -1,6 +1,5 @@
 # Lecture 5. Peer Code Review Basics
 
-> Canvas status: **active**
 
 ## **Summary**
 
@@ -12,7 +11,7 @@ In this lecture, we will explore peer code review.
 - Companies and code reviews
 - How to write code reviews
 
-![](../assets/template-images/content-divider/content-divider.png)
+---
 
 ## **Supplement/To Do List**
 

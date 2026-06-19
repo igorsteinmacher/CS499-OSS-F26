@@ -1,7 +1,5 @@
 # Module 5 - Contributing to Open Source
 
-> Canvas status: **active**
-
 - [Lecture 10. How To Contribute to Open Source](../../pages/lecture-10-how-to-contribute-to-open-source.md)
 - [Lecture 11. About data.table!](../../pages/lecture-11-about-data-table.md)
 - [Invited Lecture: Matt Gaughan ("Stewarded Open Source — Organizational Structure, Roles, and Contributions")](../../pages/invited-lecture-matt-gaughan-stewarded-open-source-organizational-structure-roles-and-cont.md)

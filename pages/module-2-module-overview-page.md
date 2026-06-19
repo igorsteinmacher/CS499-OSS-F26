@@ -1,8 +1,7 @@
 # Module 2: Module Overview Page
 
-> Canvas status: **active**
 
-## **lightbulb.pngOverview**
+## **Overview**
 
 This week we will explore the basic tools in modern software development. More specifically, we will cover source code versioning systems (git), and modern social coding platforms (GitHub).
 

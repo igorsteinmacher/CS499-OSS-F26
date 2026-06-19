@@ -1,6 +1,5 @@
 # Papers
 
-> Canvas status: **active**
 
 # List of papers for essays and discussions
 

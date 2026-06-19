@@ -1,8 +1,6 @@
 # Module 3: Module Overview Page
 
-> Canvas status: **active**
-
-## **lightbulb.pngOverview**
+## Overview**
 
 This week we will explore some practices used in (Open Source) Software projects that are central to any project in the modern software development world.
 

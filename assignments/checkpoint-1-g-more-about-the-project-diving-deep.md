@@ -1,11 +1,5 @@
 # Checkpoint 1.G More about the project --> Diving deep
 
-| Metadata | Value |
-|---|---|
-| Canvas status | published |
-| Points | 10.0 |
-| Grading type | points |
-| Submission type | online_upload |
 
 ### How the Project is Structured
 

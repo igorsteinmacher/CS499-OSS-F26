@@ -1,7 +1,5 @@
 # Module 2: Git and GitHub
 
-> Canvas status: **active**
-
 - [Module 2: Module Overview Page](../../pages/module-2-module-overview-page.md)
 
 ## Lectures

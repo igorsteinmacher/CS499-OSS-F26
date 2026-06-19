@@ -1,8 +1,7 @@
 # Module 1: Module Overview Page
 
-> Canvas status: **active**
 
-## **lightbulb.pngOverview**
+## **Overview**
 
 This week, we will explore the basics of open source software, aiming to understand what Open Source is (not), the history of open source, and the core practices that guide open source software development.
 

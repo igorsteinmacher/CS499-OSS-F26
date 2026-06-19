@@ -1,12 +1,5 @@
 # Final Report Copy
 
-| Metadata | Value |
-|---|---|
-| Canvas status | published |
-| Points | 10.0 |
-| Grading type | points |
-| Submission type | online_upload |
-
 ### Assignment: Contribution Process Report
 
 #### Objective:

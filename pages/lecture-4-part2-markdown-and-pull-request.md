@@ -1,7 +1,5 @@
 # Lecture 4_part2. Markdown and Pull Request
 
-> Canvas status: **active**
-
 ## **Summary**
 
 In this lecture, you will deal with Markdown and create a pull request
@@ -11,7 +9,7 @@ In this lecture, you will deal with Markdown and create a pull request
 - Markdown
 - Pull request
 
-![](../assets/template-images/content-divider/content-divider.png)
+---
 
 ## **To Do List**
 

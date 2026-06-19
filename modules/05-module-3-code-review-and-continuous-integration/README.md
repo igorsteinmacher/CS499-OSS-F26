@@ -1,7 +1,5 @@
 # Module 3: Code Review and Continuous Integration
 
-> Canvas status: **active**
-
 - [Module 3: Module Overview Page](../../pages/module-3-module-overview-page.md)
 
 ## Lectures

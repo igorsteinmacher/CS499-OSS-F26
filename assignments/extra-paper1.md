@@ -1,13 +1,5 @@
 # Extra-Paper1
 
-| Metadata | Value |
-|---|---|
-| Canvas status | published |
-| Points | 2.0 |
-| Grading type | points |
-| Submission type | online_upload |
-| Due | 2026-03-07T06:59:59 |
-| Available from | 2026-01-12T07:00:00 |
 
 You are required to read a paper from the list [provided here](../pages/papers.md "Papers") and:
 

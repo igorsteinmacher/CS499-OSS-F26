@@ -1,12 +1,5 @@
 # Assignment 5.0 | Create your groups
 
-| Metadata | Value |
-|---|---|
-| Canvas status | published |
-| Points | 0.0 |
-| Grading type | points |
-| Submission type | none |
-| Due | 2026-03-07T06:59:59 |
 
 Hi there,
 

@@ -1,12 +1,10 @@
 # Lecture 8. Open Source Licensing
 
-> Canvas status: **active**
-
 ## **Summary**
 
 In this lecture, we will explore licenses in Open Source.
 
-![](../assets/template-images/content-divider/content-divider.png)
+---
 
 ## **To Do List**
 

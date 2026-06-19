@@ -1,6 +1,5 @@
 # Generative AI Usage Guidelines
 
-> Canvas status: **active**
 
 ### Ethics and AI
 
@@ -37,11 +36,11 @@ The syllabus is the first place to look to see how the acceptable use of AI is o
 - **Instructors** are expected to clearly outline their course-specific AI policies in the syllabus. These policies define what is permitted, discouraged, or prohibited in each course.
 - **Students** are responsible for reading and reviewing the following policies. If unsure, students should ask for clarification as soon as possible.
 
-**Read through each tab below to learn about the policies that apply to this course.**
+**Read through to learn about the policies that apply to this course.**
 
 ### Course AI Policy
 
-## ICON-yellow-ai@4x.pngLimited use of generative AI is permitted in specific contexts
+## Limited use of generative AI is permitted in specific contexts
 
 This course allows for the use of generative artificial intelligence (AI) technologies as part of the research and preparation of the work.
 
@@ -60,16 +59,6 @@ Any final work submitted by students that contributes toward the course grade is
 AI Course Resources
 
 If you have selected AI resources (CoPilot, Gemini, etc.) for students to use, list them here.
-
-### Quick Check
-
-I have read and understand the AI Use Policy for this course.
-
-Yes
-:   **Thank you for taking the time to review the course Policy for AI Use.  This policy will be reiterated throughout the course.  If there are any changes, you will be notified of what is permitted and what is not.**
-
-No
-:   I want you to become a literate user of AI, which includes knowledge of acceptable use in this class.  Please go back and review the AI Use Policy for this course.
 
 ### NAU Academic Integrity Policy & AI
 
@@ -115,30 +104,3 @@ At Northern Arizona University, specific guidelines have been established regard
 #### Personal GenAI Accounts and Data Use
 
 Users of GenAI with personal AND institution-supported accounts must be aware of which account is in use at any given time.  For example, many of us may have an NAU-supported Microsoft Copilot account and a personal Copilot account.  Users with a personal account should never put Level 2 data into a personal GenAI tool.
-
-### Quick Check
-
-Examples of Level 3 and 4 data and information that should NEVER be put into an LLM generative AI tool include:
-
-- a person's date of birth, Social Security number, ID or driver's license numbers, and security camera recordings
-- human subject research, healthcare data, payment card data
-
-\*These lists are not exhaustive but serve as examples.  Please read NAU's Data Classification and Handling Policy linked above.
-
-True
-:   **Correct: Data privacy and security are critical.  Any breach of data must be reported.  When in doubt, ask your instructor.**
-
-False
-:   Be sure you are aware of restrictions on data and information use in GenAI.  You must use data and information responsibly for your protection and that of other community members.
-
-### Quick Check
-
-A user with both NAU-supported and personal GenAI accounts can use and manage data the same way for both accounts.
-
-True
-:   While it would be convenient to have the same data management policy for institution-supported and personal GenAI accounts, that is not the case.
-
-    **On a personal GenAI account, do not enter NAU internal information (Level 2), personally identifiable information (Level 3), or human research or healthcare data (Level 4). These examples are not exhaustive, and you must read the [NAU Data Classification Policy](https://in.nau.edu/its/data-classification/).**
-
-False
-:   **Correct:** Yes, you must treat each account differently and never put anything that is NAU data Level 2 and above into a personal GenAI account.

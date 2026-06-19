@@ -1,6 +1,5 @@
 # Lecture 2. The Cathedral and The Bazaar
 
-> Canvas status: **active**
 
 ## **Summary**
 
@@ -14,7 +13,7 @@ His essay, not only mapped what Open Source was, and is, but also informed sever
 
 - The Cathedral and the Bazaar
 
-![](../assets/template-images/content-divider/content-divider.png)
+---
 
 ## **To Do List**
 

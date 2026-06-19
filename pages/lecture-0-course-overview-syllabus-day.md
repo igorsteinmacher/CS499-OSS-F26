@@ -1,8 +1,7 @@
 # Lecture 0. Course Overview (Syllabus Day!)
 
-> Canvas status: **active**
 
-## **signpost icon with two different signs on itAbout Open Source Software Development**
+## **About Open Source Software Development**
 
 This course is intended to familiarize students with the fundamentals of Open Source Software development. We aim to prepare the students for the real world, exposing them to real projects. The practical objective of the course is to teach students how to set up a new project, foster participation, and get involved in OSS projects.
 

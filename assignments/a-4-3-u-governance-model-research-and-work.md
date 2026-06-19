@@ -1,12 +1,5 @@
 # A-4.3.U | Governance Model: Research and work
 
-| Metadata | Value |
-|---|---|
-| Canvas status | published |
-| Points | 10.0 |
-| Grading type | points |
-| Submission type | online_upload |
-
 ### Assignment: Proposing a New Governance Model for OpenMyProject
 
 **(References and materials are provided at the end)**

@@ -1,7 +1,5 @@
 # Module 4: Creating a project
 
-> Canvas status: **active**
-
   - [Lecture 7. Open Source project creation](../../pages/lecture-7-open-source-project-creation.md)
     - **Q-4.1 | Quiz about OSS project creation** — quiz omitted from public repository
     - [A-4.1.U| Creating you own project](../../assignments/a-4-1-u-creating-you-own-project.md)

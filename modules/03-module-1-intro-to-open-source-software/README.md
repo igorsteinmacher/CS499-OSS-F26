@@ -1,7 +1,5 @@
 # Module 1: Intro to Open Source Software
 
-> Canvas status: **active**
-
 - [Module 1: Module Overview Page](../../pages/module-1-module-overview-page.md)
 
 ## Lectures

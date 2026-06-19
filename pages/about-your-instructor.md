@@ -1,6 +1,5 @@
 # About Your Instructor
 
-> Canvas status: **active**
 
 **Instructor's bio and contact information**
 

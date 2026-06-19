@@ -1,11 +1,5 @@
 # A-2.2 | Basics of Issues and Pull Requests (Quest 2)
 
-| Metadata | Value |
-|---|---|
-| Canvas status | published |
-| Points | 10.0 |
-| Grading type | points |
-| Submission type | online_url |
 
 ## **GOAL**
 

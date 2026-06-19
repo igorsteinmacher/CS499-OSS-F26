@@ -1,6 +1,5 @@
 # Lecture 4. Introduction to GitHub (a git wrapper)
 
-> Canvas status: **active**
 
 ## **Summary**
 
@@ -13,9 +12,9 @@ In this lecture, we will explore the differences between git and GitHub and the 
 - branching and merging
 - moving the commits and HEAD
 
-![](../assets/template-images/content-divider/content-divider.png)
+---
 
-## **Suuuuuplemental Materia**
+## **Suuuuuplemental Material**
 
 1. **Learn more** [about git vs. GitHub](https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them)
 2. **Go through the** [slides about GitHub](../assets/Module2_ppt/GitHub.pptx "GitHub.pptx")**.**

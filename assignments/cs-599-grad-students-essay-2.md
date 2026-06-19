@@ -1,12 +1,5 @@
 # [CS 599] Grad Students Essay #2
 
-| Metadata | Value |
-|---|---|
-| Canvas status | published |
-| Points | 10.0 |
-| Grading type | points |
-| Submission type | online_upload |
-
 You are required to read a paper from the list provided here and:
 
 - write a critical essay (at least 1 page long and at most 2 pages long (Times 12, margins 1", 1.5 line spacing maximum))

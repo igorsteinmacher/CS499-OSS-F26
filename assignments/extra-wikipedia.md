@@ -1,14 +1,5 @@
 # Extra-Wikipedia
 
-| Metadata | Value |
-|---|---|
-| Canvas status | published |
-| Points | 2.0 |
-| Grading type | points |
-| Submission type | online_upload |
-| Due | 2026-03-07T06:59:59 |
-| Available from | 2026-01-12T07:00:00 |
-
 Each student is invited to make a **significant** contribution to a Wikipedia article of their choice. This will introduce you to the process of contributing to a crowd-sourced platform. Create an account (in case you do not have one) and go ahead. Fight the good fight.
 
 The deliverable can either be a document with a link to the contribution (if accepted) or a brief explanation of why the community did not accept the contribution. Please add your username or link specifically to the diff.

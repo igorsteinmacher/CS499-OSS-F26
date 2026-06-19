@@ -1,14 +1,5 @@
 # A-3.1.U | Making a peer code review
 
-| Metadata | Value |
-|---|---|
-| Canvas status | published |
-| Points | 10.0 |
-| Grading type | points |
-| Submission type | online_text_entry |
-
-This is a **Homework Assignment**. You can tell when you look at it from the Calendar or from the Modules page because it has the Canvas Assignment Icon displayed next to it:   ![Assignment icon](../assets/template-images/icons/Screenshot%20(68).png)
-
 ---
 
 ## **Assignment Overview**

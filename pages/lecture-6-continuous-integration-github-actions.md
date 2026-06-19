@@ -1,6 +1,5 @@
 # Lecture 6. Continuous Integration + GitHub Actions
 
-> Canvas status: **active**
 
 ## **Summary**
 
@@ -11,7 +10,7 @@ In this lecture, we will explore Continuous Integration
 - Why do we need Continuous Integration?
 - How to set up CI on GitHub Actions
 
-![](../assets/template-images/content-divider/content-divider.png)
+---
 
 ## **Supplemental/To Do List**
 

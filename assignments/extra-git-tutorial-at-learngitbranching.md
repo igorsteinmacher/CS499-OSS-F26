@@ -1,17 +1,5 @@
 # EXTRA | git tutorial at learngitbranching
 
-| Metadata | Value |
-|---|---|
-| Canvas status | published |
-| Points | 10.0 |
-| Grading type | points |
-| Submission type | online_upload |
-| Due | 2026-01-31T06:59:59 |
-| Available from | 2026-01-26T07:00:00 |
-| Available until | 2026-01-31T06:59:59 |
-
-This is a **Homework Assignment**. You can tell when you look at it from the Calendar or from the Modules page because it has the Canvas Assignment Icon displayed next to it:   ![Assignment icon](../assets/template-images/icons/Screenshot%20(68).png)
-
 ---
 
 ## **Assignment Overview**

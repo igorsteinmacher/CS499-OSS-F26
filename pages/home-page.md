@@ -1,8 +1,5 @@
 # Home Page
 
-> Canvas status: **active**
-
-![Welcome Banner](../assets/template-images/home-page-images/banners/NAU-welcome-banner.png)
 
 ## **Welcome!**
 
@@ -19,10 +16,11 @@ I'm Dr. Igor Steinmacher, and I'll be the instructor for this course (see more a
 
 The left-side navigation menu includes a [Modules](../modules/02-module-0-start-here/README.md "TEMPLATE - Welcome: Start Here! ") button where you will access learning content, the [Course Overview,](lecture-0-course-overview-syllabus-day.md "Course Overview ") the [About Your Instructor page,](about-your-instructor.md "About Your Instructor") and other helpful resources (including Canvas support). Or you may navigate within the course using the icons below. When you are ready, begin with the **Start Here Module**.
 
-[![Start here button](../assets/template-images/home-page-images/buttons/Button-start-here.png)](../modules/02-module-0-start-here/README.md "Welcome: Start Here!")[![Syllabus button](../assets/template-images/home-page-images/buttons/Button-syllabus.png)](../syllabus/README.md "Syllabus")[![Module button](../assets/template-images/home-page-images/buttons/Button-modules.png)](../modules/02-module-0-start-here/README.md "TEMPLATE - Welcome: Start Here! ")![Announcements button](../assets/template-images/home-page-images/buttons/Button-announcements.png)
+* [Start here](../modules/02-module-0-start-here/README.md)
 
-If you are accessing this course from a mobile device, please review the following: [Mobile Guides - Canvas Student.](https://design.instructure.com/courses/178/pages/canvas-student-app "Mobile Guides - Canvas Student")
+* [Syllabus](../syllabus/README.md)
 
-![Best Practices icon](../assets/template-images/icons/ICON-best-practices_1%402x.png)
+* [Module button](../modules/02-module-0-start-here/README.md)
+
 
 ---

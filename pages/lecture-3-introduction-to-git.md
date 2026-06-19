@@ -1,6 +1,5 @@
 # Lecture 3. Introduction to git
 
-> Canvas status: **active**
 
 ## **Summary**
 
@@ -14,7 +13,7 @@ We will follow a tutorial + hands-on approach. Please be on top of things!!!
 - branching and merging
 - moving the commits and HEAD
 
-![](../assets/template-images/content-divider/content-divider.png)
+---
 
 ## **Supplemental Material**
 

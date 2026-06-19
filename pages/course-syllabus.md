@@ -1,6 +1,5 @@
 # Course Syllabus
 
-> Canvas status: **active**
 
 [Syllabus](../syllabus/README.md "Syllabus")
 

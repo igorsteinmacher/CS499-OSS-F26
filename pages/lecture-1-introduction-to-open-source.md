@@ -1,6 +1,5 @@
 # Lecture 1. Introduction to Open Source
 
-> Canvas status: **active**
 
 ## **Summary**
 
@@ -15,9 +14,8 @@ We will also navigate the history of open source, going through the important mi
 - History of Open Source
 - Open Source vs. Free Software
 
-**![Best Practices icon](../assets/template-images/icons/ICON-best-practices_1%402x.png)**
 
-![](../assets/template-images/content-divider/content-divider.png)
+---
 
 ## Supplemental material
 
