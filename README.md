@@ -1,14 +1,10 @@
-# Combo CS-499 (1261-9322), CS-499, CS-599 sections (Spring 2026 M16)
-
-> Generated from a Canvas course export. Review `metadata/PUBLICATION_REPORT.md` before publication.
+# Combo CS-499, CS-599 sections
 
 ## Course materials
 
 - [Syllabus](syllabus/README.md)
-- [Canvas pages](pages/)
 - [Assignments](assignments/)
-- [Referenced files and presentations](assets/)
-
+=
 ## Modules
 
 - [Module 0: Start Here!](modules/02-module-0-start-here/README.md)
@@ -20,6 +16,3 @@
 - [Essays and Paper Readings](modules/09-essays-and-paper-readings/README.md)
 - [Pages](modules/10-pages/README.md)
 
-## Deliberately excluded
-
-Raw quizzes/QTI, LTI configuration, unsupported Canvas-only links, unpublished content (unless enabled), unreferenced assets, invite links, and files over the configured threshold.
